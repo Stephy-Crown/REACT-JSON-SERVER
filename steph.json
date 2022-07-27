@@ -1,0 +1,48 @@
+{
+  "post": [
+    {
+      "author": "Slyvia",
+      "title": "This is an updated Input",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Javascript",
+      "author": "Glory"
+    },
+    {
+      "id": 3,
+      "title": "Stylesheet",
+      "author": "Lily"
+    },
+    {
+      "id": "96cd4f62-588a-43eb-a7f8-3b4ed88f7d4f",
+      "title": "hello",
+      "author": "jey"
+    },
+    {
+      "id": "0000857b-0021-4e37-bd9c-1df8527d0d25",
+      "title": "ju",
+      "author": "mk"
+    },
+    {
+      "author": "Suji",
+      "title": "Welcome",
+      "id": "4bd47e25-408c-466c-a320-d54d40deda5d"
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "title": "Server",
+      "post-it": "Sophie"
+    }
+  ],
+  "author": [
+    {
+      "id": 1,
+      "title": "Nigeria",
+      "post-it": "Slyvia"
+    }
+  ]
+}
